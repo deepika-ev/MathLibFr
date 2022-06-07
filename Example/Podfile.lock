@@ -1,0 +1,16 @@
+PODS:
+  - MathLibFr (0.1.0)
+
+DEPENDENCIES:
+  - MathLibFr (from `../`)
+
+EXTERNAL SOURCES:
+  MathLibFr:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MathLibFr: 981e9d5df7565e818b6cbe93893c2b4dd075f877
+
+PODFILE CHECKSUM: 458df13bc3b25ab6dd901b0cc8b68d180f0998f4
+
+COCOAPODS: 1.11.3

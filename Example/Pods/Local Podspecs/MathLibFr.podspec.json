@@ -1,0 +1,22 @@
+{
+  "name": "MathLibFr",
+  "version": "0.1.0",
+  "summary": "A short description of MathLibFr.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/deepika-ev/MathLibFr",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "deepika-ev": "deepikaev4444@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/deepika-ev/MathLibFr.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MathLibFr/Classes/**/*"
+}

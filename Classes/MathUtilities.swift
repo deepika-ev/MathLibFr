@@ -10,18 +10,19 @@ import Foundation
 
 //open, piblic, fileprivate, private, internal(default)
 
-class MathUtility {
+public class MathUtility {
+    public init() {}
     
-    func add(a: Int, b: Int) -> Int {
+    public func add(a: Int, b: Int) -> Int {
         return a + b
     }
-    func sub(a: Int, b: Int) -> Int {
+    public func sub(a: Int, b: Int) -> Int {
         return a - b
     }
-    func multiply(a: Int, b: Int) -> Int {
+    public func multiply(a: Int, b: Int) -> Int {
         return a * b
     }
-    func divide(a: Int, b: Int) -> Int {
+    public func divide(a: Int, b: Int) -> Int {
         return a / b
     }
 }
